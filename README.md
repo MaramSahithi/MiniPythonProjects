@@ -5,26 +5,26 @@ Mini Python projects portfolio featuring Tic Tac Toe, Snake Game, Connect Four, 
 - Console-based 2-player game.
 - Run with:
 ```bash
-python Tic_Tac_Toe/tic_tac_toe.py
+python tic_tac_toe.py
 ```
 ### 2. Snake Game
 * Classic arcade game using Turtle graphics.
 * Run with:
 ```bash
-python Snake_Game/snake_game_turtle.py
+python snake_game_turtle.py
 ```
 ### 3. Connect Four
 * Two-player console game using NumPy arrays.
 * Run with:
 ```bash
-python Connect_Four/connect_four.py
+python connect_four.py
 ```
 ### 4. Digital Clock
 * GUI clock using Tkinter showing 12-hour and 24-hour formats.
 * Run with:
 
 ```bash
-python Digital_Clock/digital_clock_tkinter.py
+python digital_clock_tkinter.py
 ```
 ## Features
 * Interactive and modular projects.
