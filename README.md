@@ -33,5 +33,3 @@ python Digital_Clock/digital_clock_tkinter.py
 
 
 
-If you want, I can **also create a ready-to-push folder structure with this README included** so you can directly upload to GitHub. Do you want me to do that?
-```
