@@ -6,7 +6,7 @@ Mini Python projects portfolio featuring Tic Tac Toe, Snake Game, Connect Four, 
 - Run with:
 ```bash
 python Tic_Tac_Toe/tic_tac_toe.py
-````
+```
 ### 2. Snake Game
 * Classic arcade game using Turtle graphics.
 * Run with:
