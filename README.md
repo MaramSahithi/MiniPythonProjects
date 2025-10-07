@@ -11,7 +11,7 @@ python tic_tac_toe.py
 * Classic arcade game using Turtle graphics.
 * Run with:
 ```bash
-python snake_game_turtle.py
+python snake_game.py
 ```
 ### 3. Connect Four
 * Two-player console game using NumPy arrays.
@@ -24,7 +24,7 @@ python connect_four.py
 * Run with:
 
 ```bash
-python digital_clock_tkinter.py
+python digital_clock.py
 ```
 ## Features
 * Interactive and modular projects.
